@@ -1,0 +1,18 @@
+ul {
+	background : blue;
+	padding: 20px;
+	color: black;
+	width: 80%;
+}
+ul li {
+	background-color: aquamarine;
+	margin: 5px;
+}
+ol {
+	background: magenta;
+	padding: 20px;
+	width : 80%;
+}
+ol li {
+	background-color : pink;
+}
